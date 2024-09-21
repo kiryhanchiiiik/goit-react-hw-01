@@ -1,0 +1,11 @@
+.FriendList {
+  padding-left: 0;
+  display: flex;
+  list-style-type: none;
+  gap: 15px;
+}
+.FriendListItem {
+  border: 1px #ffffff solid;
+  padding: 5px;
+  border-radius: 5px;
+}
